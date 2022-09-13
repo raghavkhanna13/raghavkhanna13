@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Khanna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavk0077&label=Profile%20views&color=0e75b6&style=flat" alt="raghavk0077" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavk0077" alt="raghavk0077" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, DSA**
 
