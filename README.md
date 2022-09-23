@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, DSA**
 
-- 💬 Ask me about **CPP, JavaScript**
+- 💬 Ask me about **CPP, JavaScript, DSA, Basic Git**
 
 - 📫 How to reach me **raghavkhanna1301@gmail.com**
 
