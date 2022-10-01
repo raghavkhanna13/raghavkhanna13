@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavk0077&" alt="raghavk0077" /></p>
 
-[![raghav's github activity graph](https://activity-graph.herokuapp.com/graph?username=raghavk0077&theme="react-dark")](https://github.com/raghavk0077/github-readme-activity-graph)
+[![raghav's github activity graph](https://activity-graph.herokuapp.com/graph?username=raghavk0077&theme=react-dark)](https://github.com/raghavk0077/github-readme-activity-graph)
