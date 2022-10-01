@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavk0077&show_icons=true&locale=en" alt="raghavk0077" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavk0077&" alt="raghavk0077" /></p>
+
+[![raghav's github activity graph](https://activity-graph.herokuapp.com/graph?username=raghavk0077)](https://github.com/raghavk0077/github-readme-activity-graph)
