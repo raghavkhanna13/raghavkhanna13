@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Khanna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavk0077&label=Profile%20views&color=0e75b6&style=flat" alt="raghavk0077" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, DSA**
+- 🌱 I’m currently learning **React, DSA**
 
 - 💬 Ask me about **CPP, JavaScript, DSA, Basic Git**
 
